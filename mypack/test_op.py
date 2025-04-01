@@ -1,4 +1,4 @@
-from source.addop import add
+from jetsky.addop import add
 
 def test_add():
     assert add(1,4)==5
